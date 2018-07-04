@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TesAplikasi</string>
+    <string name="btn_1">Submit</string>
+    <string name="Submit">btn_1</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="textview1">hjgh</string>
+    <string name="foto">FOTO</string>
+    <string name="buttonCamera">ButtonCamera</string>
+</resources>
